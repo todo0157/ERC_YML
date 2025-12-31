@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# IDE
+.vscode/
+
+# Data / Outputs (keep repo light; adjust if you intentionally want to version data)
+ABS_Ra_p10to100_results*/
+ERC/PM/
+ERC/VOC/
+ERC/rawdata/
+
+# Large binaries
+*.xlsx
+*.zip
+
+
