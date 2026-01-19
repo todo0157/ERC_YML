@@ -7,6 +7,15 @@
 # IDE
 .vscode/
 
+# Release snapshot assets (generated locally)
+release_assets/
+snapshots/
+dist/
+*.7z
+*.tar
+*.gz
+*.rar
+
 # Data / Outputs (keep repo light; adjust if you intentionally want to version data)
 ABS_Ra_p10to100_results*/
 ERC/PM/
