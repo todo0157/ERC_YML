@@ -1,5 +1,5 @@
 # Python
-__pycache__/
+**/__pycache__/
 *.pyc
 .venv/
 .env
@@ -12,9 +12,31 @@ ABS_Ra_p10to100_results*/
 ERC/PM/
 ERC/VOC/
 ERC/rawdata/
+ERC/00_Comparative_Analysis_FixedK/
+ERC/02_Enhanced_Data/
+ERC/04_Enhanced_Features_PM/
+ERC/05_Comparative_Analysis_PM/
+ERC/06_Enhanced_Features_Roughness/
+ERC/07_Comparative_Analysis_Roughness/
+ERC/20260114_10,60,110/
+ERC/20260114_3,5,10/
+ERC/20260115_3,5,10/
+ERC/Comparative_Analysis/
+ERC/Lag_Analysis/
+ERC/PM_timeresampling/
+ERC/extract_log.txt
 
 # Large binaries
 *.xlsx
 *.zip
+*.pkl
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pptx
+*.pdf
+*.docx
+*.log
 
 
